@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Someone else stream",
+      "description": "Description of stream",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "Description of stream",
+      "id": 2
+    },
+    {
+      "title": "Check navigation title",
+      "description": "checking navigation with history object from route",
+      "id": 4
+    },
+    {
+      "title": "Hey I am Title",
+      "description": "Hey I am Description",
+      "userId": "110260803229977056875",
+      "id": 5
+    },
+    {
+      "title": "Hi this is crazy",
+      "description": "why is it crazy. i thought it is not",
+      "userId": "110260803229977056875",
+      "id": 6
+    }
+  ]
+}
